@@ -20,5 +20,8 @@
 
                                                         </body>
                                                         </html>
+  ## Fleshing It Out
+  
+    To give this skeleton a bit of life, we will add some very minor html & css styling. The stylings add will be: header, navigation bar, main content, side content, and a footer. I will be publishing these bits in the Develop file folders. Be sure to play around with the sizing and colors so you can see the difference!
   
   
